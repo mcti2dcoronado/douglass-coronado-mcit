@@ -37,6 +37,7 @@ How would you like to pay?
 1. Credit
 2. Debit
 3. Cash
+
 After choosing anything, please show the following:
 Thank you for ordering with firstname-lastname Pizza Heaven, we would love
 to see you again.
