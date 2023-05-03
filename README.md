@@ -20,8 +20,7 @@ Please choose from the following option:
 1. Regular - +$0
 2. Large - +$2
 3. Extra Large - +$4
-Do you want to order more pizza? then type 'yes' to add more order or 'no' to
-finalize the order:
+Do you want to order more pizza? then type 'yes' to add more order or 'no' to finalize the order:
 -----------------------------------------------------------------------------------------------
 if yes then only show
 1. Peperroni Pizza - $14
@@ -38,6 +37,7 @@ How would you like to pay?
 2. Debit
 3. Cash
 
-After choosing anything, please show the following:
-Thank you for ordering with firstname-lastname Pizza Heaven, we would love to see you again.
+After choosing anything, please show the following: 
+Thank you for ordering wiht firstname-lastname Pizza Heaven, we would love to see you again.
+
 --------------------------------------------------------------------------------------------
