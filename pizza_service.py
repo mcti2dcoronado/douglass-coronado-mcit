@@ -134,7 +134,8 @@ while choice != 6:
         pizza_name = get_pizza_name(choice)
 
         # display this message once - choosing pizza size
-        print("\n\nThank you for choosing "+pizza_name+", all the size is regular, if you want to order large you have to add $2. If you want extra large then you have to add $4")
+        print("\n\nThank you for choosing "+pizza_name)
+        print("All the size is regular, if you want to order large you have to add $2. If you want extra large then you have to add $4")
         print("Please choose from the following options:\n\n")
         size_price = -1
 
